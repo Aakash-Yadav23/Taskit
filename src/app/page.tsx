@@ -1,6 +1,6 @@
 import Footer from "@/components/layout/Footer";
 import MaxWidthWraapper from "@/components/layout/MaxWidthWraapper";
-import Navbar from "@/components/layout/Navbar";
+import Navbar from "@/components/navbar/Navbar";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import Link from "next/link";
